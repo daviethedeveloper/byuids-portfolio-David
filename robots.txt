@@ -1,1 +1,1 @@
-Sitemap: https://byui-cse.github.io/byuids-portfolio/sitemap.xml
+Sitemap: https://daviethedeveloper.github.io/byuids-portfolio-David/sitemap.xml
